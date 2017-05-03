@@ -1,0 +1,10 @@
+# Elemental Heartbreaker
+
+# Original file from Batmanisgood, but it was not working properly, weapons were deleted once the save was loaded
+
+# Fire Heartbreaker : BL2(hwAAAAA5/gACyIBADAGFikBZg1ICpQCKGxQLKBJQ/v+bQBGDkgnl)
+# Corrosive Heartbreaker : BL2(hwAAAACHwgACyIBADAGFikBZg1ICpQCKG5QLKBJQ/v+bQBGDkgnl)
+# Shock Heartbreaker : BL2(hwAAAAD28wACyIBADAGFikBZg1ICpQCKGxQMKBJQ/v+bQBGDkgnl)
+# Slag Heartbreaker : BL2(hwAAAABIzwACyIBADAGFikBZg1ICpQCKG5QMKBJQ/v+bQBGDkgnl)
+
+set GD_Weap_Shotgun.A_Weapons_Unique.SG_Hyperion_3_HeartBreaker:WeaponPartListCollectionDefinition_143 ElementalPartData (bEnabled=True,WeightedParts=((Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Corrosive',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2),(Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Fire',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2),(Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Shock',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2),(Part=WeaponPartDefinition'GD_Weap_Shotgun.elemental.Shotgun_Elemental_Slag',Manufacturers=,MinGameStageIndex=0,MaxGameStageIndex=1,DefaultWeightIndex=2)))
